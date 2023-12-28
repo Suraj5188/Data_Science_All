@@ -1,7 +1,7 @@
 # DataScience_Mentorship
 Course Material - Data Science Program
 
-**Author: Rajesh More**
+**Author: Suraj Gaikwad**
 
 MODULE 1: PYTHON BASICS
 
@@ -13,7 +13,5 @@ MODULE 4: MACHINE LEARNING
 
 MODULE 5: DEEP LEARNING
 
-DURATION: 8 MONTH
 
-Queries: PLEASE CONTACT 9992907777
 
